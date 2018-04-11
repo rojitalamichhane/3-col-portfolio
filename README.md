@@ -1,3 +1,7 @@
+![Image of Yaktocat](https://github.com/rojitalamichhane/1-col-portfolio/blob/master/three-col-portfolio-bootstrap4-screenshot.png)
+
+
+
 <<<<<<< HEAD
 # TODO Sandeep: Add Basic Usage, Advanced Usage, Gulp Tasks and Installation guide here.
 
