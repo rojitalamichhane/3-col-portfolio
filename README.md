@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/rojitalamichhane/1-col-portfolio/blob/master/three-col-portfolio-bootstrap4-screenshot.png)
+![Image of Yaktocat](https://github.com/rojitalamichhane/3-col-portfolio/blob/master/three-col-portfolio-bootstrap4-screenshot.png)
 
 
 
